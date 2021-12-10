@@ -10,7 +10,7 @@ Um pouco sobre mim:
 Alguns projetos na área de dados:
 
 -Dashboards Power BI:
-
+<iframe title="Dados Times Futebol Europeu 2014-2020" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiM2NhODcyODEtZWUzMS00NDFhLTg3ZjAtZGI2OWNjODNlNWI5IiwidCI6ImRiMTZlMjhkLTUyNGItNDkxYy05NzQyLWU5OWJkOTA2ODAzOSJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
 
 
 
