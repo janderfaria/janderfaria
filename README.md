@@ -1,18 +1,18 @@
 ### Olá! Seja bem vindo(a)! 👋
 
-Um pouco sobre mim:
+<strong>Um pouco sobre mim:</strong>
 
 - 🔭 Trabalhando atualmente na área de Suporte, mas em processo de transição para a área de <b>Análise de Dados</b>.
 - 📚 Estudando <b>Análise de Dados</b> e <b>Data Science</b>.
-- 🤔 Buscando oportunidades para iniciar na área de dados, procuro pessoas para compartilhar conhecimentos e aumentar meu networking.
 - 📫 Como entrar em contato comigo: <b>www.linkedin.com/in/janderfaria</b> ou pelo email <b>jander_faria@hotmail.com</b>
 
-Alguns projetos na área de dados:
+</strong>📂 Alguns projetos desenvolvidos na área de dados:</strong>
 
--Dashboards Power BI:
-<iframe title="Dados Times Futebol Europeu 2014-2020" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiM2NhODcyODEtZWUzMS00NDFhLTg3ZjAtZGI2OWNjODNlNWI5IiwidCI6ImRiMTZlMjhkLTUyNGItNDkxYy05NzQyLWU5OWJkOTA2ODAzOSJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
-
-
+  - <b>Estatísticas dos 5 principais campeonatos europeus entre 2014-2020 (minha primeira dashboard utilizando Power BI)</b><br><br>
+    <i>Descrição:</i><br>
+    Esta é minha primeira dashboard desenvolvida, sem nenhum conhecimento da ferramenta Power BI ou qualquer tutorial para auxiliar (apenas muita curiosidade). Criado a partir de um dataset sobre o futebol europeu, que contém dados dos times, partidas e jogadores. A dashboard exibe alguns dados sobre os principais times dos principais campeonatos europeus no período de 2014 a 2020. Dataset utilizado: https://www.kaggle.com/technika148/football-database <br>        
+    Disponível em:    
+    https://app.powerbi.com/view?r=eyJrIjoiM2NhODcyODEtZWUzMS00NDFhLTg3ZjAtZGI2OWNjODNlNWI5IiwidCI6ImRiMTZlMjhkLTUyNGItNDkxYy05NzQyLWU5OWJkOTA2ODAzOSJ9
 
 <!--
 **janderfaria/janderfaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
