@@ -6,7 +6,7 @@
 - 📚 Estudando <b>Análise de Dados</b> e <b>Data Science</b>.
 - 📫 Como entrar em contato comigo: <b>www.linkedin.com/in/janderfaria</b> ou pelo email <b>jander_faria@hotmail.com</b>
 
-</strong>📂 Alguns projetos desenvolvidos na área de dados:</strong>
+📂 <strong>Alguns projetos desenvolvidos na área de dados:</strong>
 
   - <b>Estatísticas dos 5 principais campeonatos europeus entre 2014-2020 (minha primeira dashboard utilizando Power BI)</b><br><br>
     <i>Descrição:</i><br>
