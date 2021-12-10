@@ -9,10 +9,10 @@
 📂 <strong>Alguns projetos desenvolvidos na área de dados:</strong>
 
   - <b>Estatísticas dos 5 principais campeonatos europeus entre 2014-2020 (minha primeira dashboard utilizando Power BI)</b><br><br>
-    <i>Descrição:</i><br>
-    Esta é minha primeira dashboard desenvolvida, sem nenhum conhecimento da ferramenta Power BI ou qualquer tutorial para auxiliar (apenas muita curiosidade). Criado a partir de um dataset sobre o futebol europeu, que contém dados dos times, partidas e jogadores. A dashboard exibe alguns dados sobre os principais times dos principais campeonatos europeus no período de 2014 a 2020. Dataset utilizado: https://www.kaggle.com/technika148/football-database <br>        
+    Descrição:<br>
+    <i>Esta é minha primeira dashboard desenvolvida, sem nenhum conhecimento da ferramenta Power BI ou qualquer tutorial para auxiliar (apenas muita curiosidade). Criado a partir de um dataset sobre o futebol europeu, que contém dados dos times, partidas e jogadores. A dashboard exibe alguns dados sobre os principais times dos principais campeonatos europeus no período de 2014 a 2020. Dataset utilizado: https://www.kaggle.com/technika148/football-database<i> <br>        
     Disponível em:    
-    https://app.powerbi.com/view?r=eyJrIjoiM2NhODcyODEtZWUzMS00NDFhLTg3ZjAtZGI2OWNjODNlNWI5IiwidCI6ImRiMTZlMjhkLTUyNGItNDkxYy05NzQyLWU5OWJkOTA2ODAzOSJ9
+    <i>https://app.powerbi.com/view?r=eyJrIjoiM2NhODcyODEtZWUzMS00NDFhLTg3ZjAtZGI2OWNjODNlNWI5IiwidCI6ImRiMTZlMjhkLTUyNGItNDkxYy05NzQyLWU5OWJkOTA2ODAzOSJ9</i>
 
 <!--
 **janderfaria/janderfaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
